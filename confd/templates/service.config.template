@@ -1,0 +1,4 @@
+{
+    "Foo": "{{ getenv "Foo" }}",
+    "Hello": "{{ getenv "Hello" }}"
+}
